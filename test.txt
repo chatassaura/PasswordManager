@@ -1,0 +1,10 @@
+{
+    "Amazon": {
+        "email": "fefe@balaco.baco",
+        "password": "$16$t#uEbtDZ2IG1"
+    },
+    "Ig": {
+        "email": "netao@balaco.baco",
+        "password": "umlN++wwTL)7v3T&"
+    }
+}
